@@ -1,0 +1,4 @@
+echo "What is the purpose of a shell? A shell is a program that lets you interact with the operating system by typing commands- it's like a translator between you and your computer"
+echo "What did you learn by running shell commands? I learned how to navigate systems, automate tasks, and manage files more efficiently using simple text-based instructions"
+echo "How was using the terminal different from clicking through folders? Using the terminals lets you control and navigate your files through typed commands"
+
